@@ -1,6 +1,10 @@
 # PythonDockerFlaskPyCharmHW
 ## This project uses Python, Docker, MySQL, and PyCharm
 ## Franklin Tan
-## Screenshots
+## March 29, 2021
+
+
+## SQL Data Screenshot
 ![pycharm_data_query](screenshots/citiesData.JPG)
+## Postman Screenshot
 ![postman_working](screenshots/postmanWorking.JPG)
