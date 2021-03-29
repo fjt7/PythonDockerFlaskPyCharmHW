@@ -1,7 +1,8 @@
 # PythonDockerFlaskPyCharmHW
 ## This project uses Python, Docker, MySQL, and PyCharm
 ## Franklin Tan
-## March 29, 2021
+## March 29, 2021 -- Lesson 1
+## April 5, 2021 -- Lesson 2
 
 
 ## SQL Data Screenshot
