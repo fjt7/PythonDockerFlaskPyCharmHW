@@ -3,3 +3,4 @@
 ## Franklin Tan
 ## Screenshots
 ![pycharm_data_query](screenshots/citiesData.JPG)
+![postman_working](screenshots/postmanWorking.JPG)
