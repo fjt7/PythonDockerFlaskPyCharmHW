@@ -9,3 +9,5 @@
 ![pycharm_data_query](screenshots/citiesData.JPG)
 ## Postman Screenshot
 ![postman_working](screenshots/postmanWorking.JPG)
+## Homepage Screenshot
+![homepage_screenshot](screenshots/homepage.JPG)
