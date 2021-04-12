@@ -53,6 +53,7 @@ def form_update_post(city_id):
     mysql.get_db().commit()
     return redirect("/", code=302)
 
+
 @app.route('/cities/new', methods=['GET'])
 def form_insert_get():
     return render_template('new.html', title='New City Form')
@@ -68,6 +69,7 @@ def form_insert_post():
     cursor.execute(sql_insert_query, inputData)
     mysql.get_db().commit()
     return redirect("/", code=302)
+
 
 @app.route('/delete/<int:city_id>', methods=['POST'])
 def form_delete_post(city_id):
